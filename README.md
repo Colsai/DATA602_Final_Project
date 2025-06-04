@@ -1,4 +1,4 @@
-<title>DATA 602 Final Project</title> 
+<title> DATA 602 Final Project </title> 
 ## Applying Machine Learning Strategies to Educational Outcomes:
 
 ## Modeling Usage on Chicago Public Schools
